@@ -1,3 +1,3 @@
 # Golang-Training
 
-[Try in PWD](http://google.com)
+[Golang Website](https://golang.org/)
