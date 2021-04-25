@@ -1,5 +1,9 @@
 // Small Web Server
 
+//Entering Variables
+
+foo = "This is a string"
+
 package main
 
 // Run this file, then go to localhost:8080.
